@@ -1,0 +1,10 @@
+{
+  "spreadsheet_id": "1Az19msMQvwQ5yK4qS0IRkojdnUoW_Ow66ULLSLmLeD4",
+  "worksheet_name": "Outbox",
+  "service_account_file": "C:\\DEEP\\dp-20012025-de8a64bbf4d1.json",
+  "chrome_user_data_dir": "chrome-profile",
+  "daily_limit": 222,
+  "minimum_delay_seconds": 45,
+  "maximum_delay_seconds": 120,
+  "timezone": "Asia/Kolkata"
+}
